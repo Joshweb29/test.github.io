@@ -1,0 +1,25 @@
+body {
+				text-align: center;
+				background: blanchedalmond;
+}
+.form {
+				width: 250px;
+				height: 250px;
+				outline: thin solid black;
+				margin: 1rem;
+				padding: 2rem;				
+				background: ghostwhite;
+}
+.text-box {
+				width: 200px;
+				height: 30px;
+				padding: 0 0 0 1rem;
+				box-sizing: border-box;
+				margin: 0.5rem;
+}
+#login {
+				width: 200px;
+				height: 30px;
+				box-sizing: border-box;
+				margin: 0.5rem;				
+}
